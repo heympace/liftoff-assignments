@@ -6,12 +6,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
+### Situation
+Our bodies are complex. And managing diabetes is hard. Once diagnosed, it's very difficult to test (and remember) how our bodies respond to food and exercise.
+
 ### Overview
-Include overview here
-### Features
-Include Features here
+SugarDrop is your go-to app for saying "screw you" to diabetes. Managing diabetes can feel like a guessing game. SugarDrop brings the connection between food intake, physical activity, and blood sugar relative to time into one view – so YOU can see how your body responds to these three components that impact blood sugar and gain control over managing diabetes.
+
+### MVP Features 
+> User accounts + passwords
+> User authentication
+> Food Database API
+> Macro Calculator
+> User can create posts
+> Overview of log 
+
 ### Technologies
-Include Technologies here
+> React
+> Node
+> HTML/CSS
+> Bootstrap or Pure
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+> React
+> Node

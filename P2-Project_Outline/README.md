@@ -13,19 +13,10 @@ Our bodies are complex. And managing diabetes is hard. Once diagnosed, it's very
 SugarDrop is your go-to app for saying "screw you" to diabetes. Managing diabetes can feel like a guessing game. SugarDrop brings the connection between food intake, physical activity, and blood sugar relative to time into one view – so YOU can see how your body responds to these three components that impact blood sugar and gain control over managing diabetes.
 
 ### MVP Features 
-> User accounts + passwords
-> User authentication
-> Food Database API
-> Macro Calculator
-> User can create posts
-> Overview of log 
+User accounts + passwords, User authentication, Food Database API, Macro Calculator, User can create posts, Overview of log 
 
 ### Technologies
-> React
-> Node
-> HTML/CSS
-> Bootstrap or Pure
+React, Node, HTML/CSS, Bootstrap or Pure
 
 ### What I'll Have to Learn
-> React
-> Node
+React, Node

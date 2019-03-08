@@ -12,7 +12,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/invite/b/OKwgx1Ki/696b31a4add355760c256061d032dc9a/liftoff-agile-board
 
 ### Project Repo Link
 

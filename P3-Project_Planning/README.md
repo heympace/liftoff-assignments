@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+[Wireframes - 03.07.2019](https://github.com/heympace/liftoff-assignments/blob/master/P3-Project_Planning/sugarDrop_wireframes_v01.pdf)
 
 ### Project Tracker
 [Trello](https://trello.com/invite/b/OKwgx1Ki/696b31a4add355760c256061d032dc9a/liftoff-agile-board)

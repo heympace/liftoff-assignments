@@ -14,5 +14,4 @@ For this assignment, you'll create some initial plans for your project.
 [Trello](https://trello.com/invite/b/OKwgx1Ki/696b31a4add355760c256061d032dc9a/liftoff-agile-board)
 
 ### Project Repo Link
-
-(Include a link to your project on GitHub)
+[sugarDrop](https://github.com/heympace/sugarDrop)
